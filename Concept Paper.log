@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.25)  10 APR 2017 18:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.25)  18 APR 2017 18:58
 entering extended mode
 **"./Concept Paper.tex"
 ("Concept Paper.tex"
@@ -153,79 +153,42 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 20.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <./muk.png>] ("Concept Paper.toc"
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `"Concept Paper.toc"'.
-
- [1]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+ <./muk.png>]
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
-Missing character: There is no ô in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
  [2] ("Concept Paper.bbl"
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no § in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ∂ in font cmr10!
-Missing character: There is no ‚ in font cmr10!
-Missing character: There is no Ä in font cmr10!
-Missing character: There is no ì in font cmr10!
-Missing character: There is no √ in font cmr10!
-Missing character: There is no ∂ in font cmr10!
 ) [3]
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <17.28> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 84.
-Missing character: There is no ‚ in font cmr17!
-Missing character: There is no Ä in font cmr17!
-Missing character: There is no ô in font cmr17!
-Missing character: There is no ‚ in font cmr17!
-Missing character: There is no Ä in font cmr17!
-Missing character: There is no ú in font cmr17!
-Missing character: There is no ‚ in font cmr17!
-Missing character: There is no Ä in font cmr17!
-Missing character: There is no ù in font cmr17!
-Missing character: There is no ‚ in font cmr17!
-Missing character: There is no Ä in font cmr17!
-Missing character: There is no ú in font cmr17!
-Missing character: There is no ‚ in font cmr17!
-Missing character: There is no Ä in font cmr17!
-Missing character: There is no ù in font cmr17!
- [4] ("Concept Paper.aux") ) 
+("Concept Paper.aux") ) 
 Here is how much of TeX's memory you used:
- 1624 strings out of 493333
- 23105 string characters out of 3139173
- 82477 words of memory out of 3000000
- 5143 multiletter control sequences out of 15000+200000
- 9713 words of font info for 34 fonts, out of 3000000 for 9000
+ 1600 strings out of 493333
+ 22696 string characters out of 3139173
+ 82495 words of memory out of 3000000
+ 5125 multiletter control sequences out of 15000+200000
+ 8840 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,6n,25p,577b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
-fonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Concept Paper.pdf" (5 pages, 148093 bytes).
+ 39i,6n,25p,1608b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Concept Paper.pdf" (3 pages, 130371 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
